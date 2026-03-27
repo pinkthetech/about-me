@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Hawi Tesfaye
 
 ## 🌍 About Me
-- 🎓 A curious mind from Ethiopia with big dreams 🌍
+- 🎓 A curious mind with big dreams 
 - 📚 Currently learning and chasing my future
 - 🧠 Interested in medical school, but also drawn to architecture
 
-## 😄 Fun Fact
+## 🤩 Fun Fact
 I’m equally fascinated by how the human body works and how buildings stand
 
 ## 🎯 My Goals
